@@ -1,0 +1,6 @@
+---
+# defaults file for homebrew
+homebrew_packages: [{}]
+homebrew_casks_packages: [[]]
+homebrew_taps: [{}]
+homebrew_upgrade: true
